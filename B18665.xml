@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the first undertakers for reducing of letters to half the former rates, truely stated.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18665</idno><idno type="EEBO-CITATION">99883369</idno>
+  <idno type="VID">185380</idno>
+  <idno type="EEBO-PROQUEST">2240876428</idno>
+  
+            <idno type="STC">Wing C1072B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[57]</idno>
+            <idno type="STC">ESTC R205541</idno>
+            <idno type="PROQUEST">ocm99883369</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883369e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18665)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185380)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the first undertakers for reducing of letters to half the former rates, truely stated.</title>
+                  <author>Oxenbridge, Clement.</author>
+                  <author>Blackwall, Rich.</author>
+                  <author>Thomson, Fra.</author>
+                  <author>Malyn, William.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed at end: Clem. Oxenbridge. Rich Blackwall. Fra. Thomson. William Malyn.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Postal service --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb n="1" facs="tcp:185380:1"/>
+            <head>The CASE of the First UNDERTAKERS for reducing of Letters to half the former Rates, truely stated.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E, with divers others, having observed, that the Postage of Inland-Letters was a long time continued at the high rates of six pence the Letter; and that the whole benefit thereof went into one hand, and that many publike and well-affected people were very much agrieved thereat; conceived, that it would be a work both acceptable to the State, and beneficial to the people, to contrive a way to reduce those high rates; being encouraged thereto by the Votes of the late Parliament, made in the time of their primitive, <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> free, and publike actings, <hi>viz.</hi> that of the 16 of <hi>August</hi> 1642. whereby they resolved, That the taking of Letters from, and the severall restraints and imprisonments of <hi>Grover, Chapman, Cotton,</hi> and <hi>Mackedral</hi> (persons who did then, and ever since carry Letters by post) was against Law, and the Liberty and freedome of the subject; and that those several persons ought to have reparations and damages from Sir <hi>John Cooke,</hi> and Sir <hi>Fran. Windebanke,</hi> then Secretaries of State, and Master <hi>Withering</hi> respectively; and that the said Secretaries and <hi>Withering</hi> were delinquents for the same: as by the copy of the said Vote hereunto annexed, may appear; as also by the opinion of the Judges given in the House of Lords, in the Case of the Earl of <hi>Warwick</hi> and M. <hi>Withering</hi> the 9 of <hi>July</hi> 1646. who reported it as their opinions, that the clauses in <hi>Witherings</hi> Patent for restraint of carrying Letters, was void, and against Law; as by the copy of the Record may appear. We did thereupon essay to put the same in practice: but through the interest and influence of Mr. <hi>Prideaux</hi> (who for many years had enjoyed excessive gaines by the former high Rates) we met with all the obstructions and oppositions that he and his interest could make against us, by stopping of our Males abusing of our servants, and otherwise (though he had alwaies held forth, that it was free for any to carry or send Letters as they pleased, being a lawful trade which every man might practise.) And the late Parliament (as we conceive) taking notice of the said contest) did refer it to the then Councel of State to consider how the postage of the Inland and Foraign Letters might be best managed, for the advantage of the State, and ease of the people; and to report their opinions concerning the same. In pursuance whereof, the Councel of State did refer the same to the Committee of <hi>Scotish</hi> and <hi>Irish</hi> af<g ref="char:EOLhyphen"/>fairs, who did prefix a certain day for all persons that pleased to give in their offers for the said postage of Inland and Foraign Letters: at which time several persons besides our selves did give in their offers to the said Committee, sealed up, as at a publike box; where we did out-bid all others above 2000 <hi>l. per an.</hi> as is extant by our Paper, and was acknowledged by the said Committee: onely it was objected against us, that we had a caution in our said Paper, that the money then offered by us, might be imployed for the relief of the poor and maimed souldiers; which we did out of tenderness to common liberty, and to prevent the scandal of a monopoly. And though the same pro<g ref="char:EOLhyphen"/>ceedings of the Committee were that night reported to the then Councel, yet through the prevalency of Mr. <hi>Pride<g ref="char:EOLhyphen"/>aux</hi> and his party, we could never obtaine a resolution of the Councel thereupon nor to have it reported from them to the Parliament: but on the contrary, through the subtil wiles of Mr. <hi>Prid<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> or his friends (as we conceive) a mock-motion was made in the late Parliament, of offering 40000. <hi>l.</hi> (or a grant of the said Offices for 21 yeers at the old rares; thereby to obtaine a second reference to the Councel of State, meerly out of a designe to weary us out: notwithstanding all which discouragements, and other practices used, by threatning on the one hand, and fai<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offers on the other; we, out of a desire to the publike good, did, at our great charge and hazard, pro<g ref="char:EOLhyphen"/>secute the said undertaking, and published to all persons, to carry Letters at half the former Rates, and to have return three times weekly: which Mr. <hi>Prideaux</hi> perceiving, did publish to carry at the same Rates and times (not out of any good affection to the ease of the publike (as we have cause to believe) having kept up the old rates as long as was possible but) meerly out of a designe to supplant us. This not availing according to his expectation, (most people being sensible their benefit came by us) the rage and fury of him and his Agents was very much in<g ref="char:EOLhyphen"/>creased against us, who did renew their affronts and abuses to our Agents and servants upon the Roads: one of them, as he was riding with the Male, was murthered, and thrown into a River (though by whom, we know not, yet) neer to the place where a Son of one of the old Post-masters assaulted another of our Servants with a drawn Sword.</p>
+            <p>But all these unworthy practices not taking effect to accomplish Mr. <hi>Prideaux</hi> his aim, to weary and deter us from our just undertaking, immediately an Order from the then Councel of Sate was procured, not to stop us, or our Males, (that being thought too apparently illegal) but in such doubtful terms, as might affright the weak from sending their Letters to us: and Libels were also posted up and down the City, by Mr. <hi>Prideaux,</hi> or his Agents, signifying that our Males should be stopt but his go free. This project likewise failing, Mr. <hi>Prideaux,</hi> out of an hy<g ref="char:EOLhyphen"/>pocritical pretence of keeping the Sabbath day, did arrogantly presume by his own warrant, to command his Post<g ref="char:EOLhyphen"/>masters to require the Justices of the Peace in the severall Counties to stop our Males on the Sabbath-day, whenas his own went free: which surely was not so much out of tenderness to the observation of the Sabbath, as to bring about his own covetous designs: which pretended sanctity is double iniquity. And through this cunning practice of his, he put us to extraordinary charge and labour, by Servants and Horses. Notwithstanding all which con<g ref="char:EOLhyphen"/>flict of difficulties (besides many more, too tedious to express) we did still, with unwearied reasolutions, persist in our honest undertaking: and while we were labouring amidst these difficulties and conflicts, it pleased God in his providence to devolve Authority on such worthy persons as had from the beginning countenanced us in our work; who in their first entrance upon the management of publike affairs entrusted us with their ordinary and extraordina<g ref="char:EOLhyphen"/>ry packets and dispatches; which so daunted the spirit of our Antagonist (being conscious (as we conceive) of un<g ref="char:EOLhyphen"/>just dealing towards us) that he deserted the business; and we continued to perform the service of the State freely, and
+<pb n="2" facs="tcp:185380:2"/>all mens occasions faithfuly, and to full contentment; fulfilling all things concerning the postage of Inland-Letters, which the State inclined any waies to have done; reduced the same into one Channel; entertained as many of the old Post-masters, as those entrusted to treat with us on their behalf, could undertake were honest and well-affected, according to direction of the Councel of State, (which constrained us (though with much reluctancy of spirit) to lay aside divers of those honest and well-affected persons that manifested great readiness and willingness to assist us in carrying on so good a work; and took the old Post-house in <hi>London,</hi> where, three days a week, the State and all persons were accommodated; provided Packet-boats for <hi>Ireland,</hi> and were in forwardness to settle Stages between <hi>London</hi> and <hi>Yarmouth,</hi> and other Stages desired by the Councel of State, in their Order of the seventh of <hi>May</hi> last; hoping then to have reaped some fruit and benefit of our great trouble and turmoyl: but before we could receive any considerable part of our vast disbursments and charge, on a sudden, (as we conceive) by the insi<g ref="char:EOLhyphen"/>nuations of some over-officious persons, a reference was made from the Councel of State, to Col. <hi>Rich,</hi> and some other Officers, to consider of the management of the postage of Inland and Forraigne Letters; who notwith<g ref="char:EOLhyphen"/>standing all the reasons we could alledge to the contrary, did appoint a certain day when they would expose the same to be farmed by such as would give most, although we did often acquaint them with the aforesaid Vote of Parliament, 1642. and the Judges opinion concurring therewith; and that it would (as we conceived) much dissatisfie the people, to have such an Imposition put upon them. And did further urge, that in case they should yet resolve that the same should be let to farme, that we in Justice ought to be preferred before any, having out-bid all others at a publike Box, appointed by the aforesaid Committee for <hi>Scotish</hi> and <hi>Irish</hi> affaires.</p>
+            <p>But notwithstanding all this, Col. <hi>Rich,</hi> and some other of the said Officers, did proceed to put the said Post<g ref="char:EOLhyphen"/>age to farm, although we acquainted them that we had put in some Papers and Addresses to the Councel of State, setting forth our Case unto them; and therefore desired them onely to forbear proceeding therein, untill we could obtain the answer and resolution of the Councel touching the said business. But when we perceived that they would proceed to receive the Offers of those who would bid most, (although we could not desert our former Principles of common liberty and freedome, and ease to the people; and did therefore refuse conjoyntly to make any offer, as to farming: yet) rather then we would willingly suffer the management thereof to be put into the hands of such as might rack and exact upon the people (as it is now practised) and so render all our endeavours fruitless and fit down with the loss of all our trouble and great expence, An offer was made by one Mr. <hi>Ben. Andrews,</hi> a person interessed with us of 9100 <hi>l. per an.</hi> for the same; which was 800 <hi>l. per an.</hi> more then was offered by Mr. <hi>Manly,</hi> the present Farmer thereof or any other person who then appeared: yet the said Col. <hi>Rich,</hi> and those Officers who joyned with him, did suffer the said <hi>Manly</hi> to take advantage of an offer of 10100 <hi>l. per an.</hi> made by a Paper put in in the name of one <hi>Kendal,</hi> who was then absent, and (as we have reason to believe) not privy thereto: although 9100 <hi>l.</hi> offered by our friend, together with our disbursments, we did offer, and are still ready to make appear, would have been of more advantage for the State to have accepted of, then the said 10100 <hi>l. per an.</hi> offered in the said <hi>Kendals</hi> Paper.</p>
+            <p>And the said Col. <hi>Rich,</hi> and another of the said Officers, did so eagerly prosecute the said business, that they made a report to the Councel within two dayes; which was before we could be heard: onely in that very instant of time, we were called in by the Councel, to know what we had to offer for our selves; upon which, we desired that our Papers formerly presented might be read: which being granted, The right honourable Major General <hi>Lambert</hi> did there declare, that the intention and direction of the Councel was, that we should have the refu<g ref="char:EOLhyphen"/>sal before any other: and if any should offer more then we were willing to give, that we should be reimbursed our expences: for which we rendred to their Honors many thanks; and told the Councel, that if (for reasons which we could not discern) it should be judged lawful to set the Postages to farm, we then desired no further fa<g ref="char:EOLhyphen"/>vour from them, but to have the refusal; and that we might have time to make it out that we had bid most, our disbursments considered: and thereupon we withdrew, in expectation of performance of what was then decla<g ref="char:EOLhyphen"/>red unto us to be the sence of the Councel. But after we were withdrawn, Col. <hi>Rich</hi> having procured a member of the Councel to come forth, with whom having private discourse, did (as we have cause vehemently to suspect) so represent the business, that an order within half an hour was passed by the Councel immediately to invest the said <hi>Manly</hi> into the management of the inland and forraign Letters, to our great astonishment and amazement, (We having divers honest persons imployed by us, with many horses and servants lying upon our charge, and accounts to clear in most parts of <hi>England,</hi> and in <hi>Scotland</hi> and <hi>Ireland</hi>) who thereupon did, that very night, without any further warning, demand the Letters which we had received, and also the profit of the Letters which were then brought to us by our servants at our owne charges from the several Roads; and having by much perswasion prevailed with the said <hi>Manly,</hi> that the money should be deposited into a Clerks hand intrufted by him, until the pleasure of the Councel were known concerning the same; yet before that could be obtained, the said <hi>Manly,</hi> with some old Clerks &amp; Post-masters in the company of <hi>Mr. Prideaux,</hi> did in a violent &amp; riotous manner, with swords and other weapons, by force break into our house where our Letters and goods were, and thrust our servants out of doors, although they had a great charge there; and have by force hitherto kept the possession thereof, to our very great damage. And the said <hi>Manly,</hi> with some of the old Post-masters, did the same night violently break into the dwelling-house of some of us in Woodstreet <hi>London,</hi> and did in a high and peremptory manner demand from some of us the Letters there, and would by force have broke into the room where some of us and our servants were, had we not by main strength kept the door against them, and he with threatning speeches required us not to receive any more Letters.</p>
+            <p>Whereupon we made our complaint of these outrages to Col. <hi>Rich,</hi> and some other of the said Officers, ex<g ref="char:EOLhyphen"/>pecting redress therein; but the said Col. <hi>Rich</hi> and another of the said Officers, with rough and threatning words, commanded us not to meddle with receiving or sending any more Letters; taking upon them to declare that to be the sense of the Councel of States Order: And further told us, that if we did persist to send any more Letters, that
+<pb n="3" facs="tcp:185380:2"/>such of us as had any imploy<gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> under the State would be turned out of the same if all their interest could do it; and souldiers should be sent to our houses, to stop all persons that should bring any Letters to us. Yet not so much for those threats, as from real tenderness to the present posture of the publike affairs in that Juncture of time, we did forbear, in expectation of justice and relief from the Supream Authority, rather then by contest to have been any occasion of such disturbance as might have happened thereupon: since which time, we having often at<g ref="char:EOLhyphen"/>tended the said Col. <hi>Rich,</hi> and the rest of the Officers appointed by the Councel to adjust the accounts of our dis<g ref="char:EOLhyphen"/>bursments, which amount to four thousand pounds, or thereabouts; yet cannot we prevail with the said Officers to do any thing therein.</p>
+            <p>All which proceedings, cause us to set forth the state of our Case, and the hard measure towards us therein, (conceiving we could not have found worse usage, had we indeavored to raise the prices from six pence to twelve pence) as if we had deserved to be ruined for procuring so general benefit as the abatement of half the rates.</p>
+            <p>But we doubt not, when the truth of the premises shall be made appear, we shall receive such justice and repa<g ref="char:EOLhyphen"/>rations from this honourble Parliament as shall be an incouragement both to us, and all other publike spirited per<g ref="char:EOLhyphen"/>sons that shall endeavour so general a good.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Clem. Oxenbridge.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Blackwall.</hi>
+                     </item>
+                     <item>
+                        <hi>Fra. Thomson.</hi>
+                     </item>
+                     <item>
+                        <hi>William Malyn.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="resolution">
+            <opener>
+               <dateline>
+                  <date>Die Martis <hi>16</hi> August. <hi>1642.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>Master <hi>Ellis</hi> reports from the Committee to whom the business of the Letter-Office was referred.</p>
+            <p>Resolved upon the Question, <hi>That the Sequestrations of the Inland Letter-Office to</hi> Philip Burlamachy <hi>is illegal and void, and ought to be taken off.</hi>
+            </p>
+            <p>Resolved, &amp;c. <hi>That Master</hi> Philip Burlamachy <hi>and his De<g ref="char:EOLhyphen"/>puties shall forthwith bring in an account of the profit of the Office received by him or his Deputies since the said illegal Sequestration, <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Committee of Accounts, where Master</hi> Trenchard <hi>hath the Chayre.</hi>
+            </p>
+            <p>Resolved, &amp;c. <hi>That the Proclamation in pursuance of the seque<g ref="char:EOLhyphen"/>stration, is illegal and void.</hi>
+            </p>
+            <p>Upon Mr. <hi>Prideaux</hi> his report, from the Committee for the Post-masters, It was resolved upon the Question, <hi>That the taking of several Letters in this case, from the several Carriers, and the se<g ref="char:EOLhyphen"/>veral restraints and imprisonments of</hi> Grover, Chapman, Cotton, <hi>and</hi> Mackedral, <hi>is against the Law, liberty and fredome of the subject.</hi>
+            </p>
+            <p>Resolved, &amp;c. <hi>That the several persons ought to have reparations and damages from Sir</hi> John Cook, <hi>and Sir</hi> Francis Windebank, <hi>then Secretaries of State, and M.</hi> Withering <hi>respectively.</hi>
+            </p>
+            <p>Resolved, &amp;c. <hi>That Sir</hi> John Cook, <hi>Sir</hi> Francis Winde<g ref="char:EOLhyphen"/>banke, <hi>and Mr.</hi> Withering <hi>are delinquents.</hi>
+            </p>
+            <closer>Vera copia, <signed>Ex. <hi>Will. Simons.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:185380:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
